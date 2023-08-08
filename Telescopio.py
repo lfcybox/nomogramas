@@ -55,8 +55,8 @@ N_F = {
     'tick_text_levels': 1,
 }
 N_Rt = {
-    'u_min': 8,
-    'u_max': 12,
+    'u_min': 5,
+    'u_max': 18,
     'function': lambda u: u/100, #valor en cm
     'title': r'$R_T [cm]$',
     'tick_levels': 2,
